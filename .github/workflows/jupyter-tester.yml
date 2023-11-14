@@ -35,7 +35,3 @@ jobs:
         name: Jupyter Notebook Execution
         run: jupyter execute main.ipynb
         shell: bash 
-
-
-
-          username: github-actions
